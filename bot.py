@@ -3,7 +3,7 @@ import requests
 URLS = [
     "https://customer-churn-prediction-mkdr.onrender.com/",
     # Add more URLs here
-    # "https://your-app.onrender.com/",
+    "https://synapse-the-learning-platform-mnk9.onrender.com/",
 ]
 
 for url in URLS:
