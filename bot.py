@@ -4,6 +4,7 @@ URLS = [
     "https://customer-churn-prediction-mkdr.onrender.com/",
     # Add more URLs here
     "https://synapse-the-learning-platform-mnk9.onrender.com/",
+    "https://nexcode-3n9e.onrender.com/",
 ]
 
 for url in URLS:
